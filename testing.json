@@ -1,0 +1,34 @@
+{
+  "DonEiezer Baize" : {
+      "Info": [{
+        "Tag" : "@donbeleren",
+        "Bio" : "Hi, I am a cofounder of PersonaFI. Here you can see some of the stocks im currently investing in"
+        
+      }],
+      "Cells" : {
+        "Stock1" : [{
+        "Stock": "NFLX",
+        "Type": "Buy",
+        "Amount": "6",
+        "Price": "$550.64",
+        "Timeheld": "3.2 Weeks"
+        }],
+
+       "Stock2" : [{
+        "Stock": "TWTR",
+        "Type": "Sell",
+        "Amount": "4",
+        "Price": "$77.63",
+        "Timeheld": "1.2 Weeks"
+        }],
+
+       "Stock3" : [{
+        "Stock": "TSLA",
+        "Type": "Sell",
+        "Amount": "3",
+        "Price": "$718.43",
+        "Timeheld": "1.1 Weeks"
+        }]
+     }
+  }
+}
